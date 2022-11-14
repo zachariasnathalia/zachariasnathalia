@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachariasnathalia
-- I’m a self-taught Data Scientist
-- I’m currently learning Machine Learning and SQL
+- I’m a self-taught Web and Mobile Developer 
+- I’m currently learning React and Flutter
 - Reach me on Instagram: https://www.instagram.com/zachariasn/ or in my e-mail: zachariasnathalia57@outlook.com
 
 <!---
